@@ -9,7 +9,8 @@ This repository highlights my journey as a Data Science Intern at Codsoft. It sh
 
 ## **Internship Offer Letter**  
 
-Before diving into the projects, here is my official **Internship Offer Letter** from Codsoft, which confirms my position as a Data Science Intern and outlines the scope of my responsibilities.  
+Before diving into the projects, here is my official **Internship Offer Letter** from Codsoft, which confirms my position as a Data Science Intern and outlines the scope of my responsibilities. 
+
 ![Screen Shot 2025-01-08 at 10 46 17 AM](https://github.com/user-attachments/assets/7a9cc194-2cd1-47c3-ba05-a1d54f6bdeaa)
 
 
