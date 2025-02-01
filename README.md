@@ -32,7 +32,7 @@ In this project, I developed a system to predict movie ratings using Python. The
 
 ---
 
-### **2. 📈 Sales Prediction Using Python**  
+### **2. 📈 Sales Performance Forecast Mode**  
 **Description:**  
 This project aimed to predict future sales for a business by building a machine learning model. I explored historical sales data, performed feature engineering, and implemented predictive models to generate accurate forecasts.  
 
@@ -49,7 +49,7 @@ This project aimed to predict future sales for a business by building a machine 
 
 ---
 
-### **3. 💳 Credit Card Fraud Detection**  
+### **3. 💳 Protecting Your Wallet**  
 **Description:**  
 This project focused on developing a machine learning model to detect fraudulent credit card transactions. It involved handling a highly imbalanced dataset, preprocessing data effectively, and implementing logistic regression for classification.  
 
