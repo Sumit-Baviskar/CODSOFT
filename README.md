@@ -15,7 +15,7 @@ Before diving into the projects, here is my official **Internship Offer Letter**
 
 # 📂 **Projects Overview**  📂
 
-### **1. 🎬 Movie Rating Prediction with Python**  
+### **1. 🎬 Audience Sentiments on Movies**  
 **Description:**  
 In this project, I developed a system to predict movie ratings using Python. The workflow included collecting and preprocessing data from publicly available sources, performing exploratory data analysis (EDA) to uncover trends and patterns, and building a machine learning model to predict ratings accurately.  
 
